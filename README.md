@@ -2,4 +2,4 @@
 
 ucime sa 
 GIT HUB
-ale nie su tu ziadne HUBY
+Je to vsetko nove!
