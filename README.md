@@ -1,5 +1,5 @@
 # Kamene_v_Hornade
 
-pijeme kavu
-vonku je hmla
-mam dost!
+ucime sa 
+GIT HUB
+ale nie su tu ziadne HUBY
